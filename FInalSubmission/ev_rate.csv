@@ -1,0 +1,13 @@
+Country,Type,Standard,Rate,HKDequivalent
+HK,Standard,Type 2 (IEC 62196) ,7kW,2.25
+HK,Medium,Type 2 (IEC 62196),22kW,3
+HK,Quick,CCS2 / CHAdeMO  ,50kW ,5
+Japan,Standard,Type 1 (J1772),3.3kW ,1.3
+Japan,Medium,Type 1 (J1772) ,6.6kW ,2.08
+Japan,Quick,CHAdeMO ,150kW,6.76
+Taiwan,Standard,Type 2 (IEC 62196) ,7kW,0.84
+Taiwan,Medium,Type 2 (IEC 62196) ,22kW ,1.44
+Taiwan,Quick,CCS2 / CHAdeMO,50kW ,2.4
+China,Standard,GB/T  ,3.3kW ,1.374195
+China,Medium,GB/T  ,22kW,4.122585
+China,Quick,GB/T  ,60kW/120kW ,3.66452
